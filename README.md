@@ -8,11 +8,6 @@ An innovative full-stack web application designed to help users achieve their fi
 - [Tech Stack](#tech-stack)
 - [Project Workflow](#project-workflow)
 - [User Roles](#user-roles)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
