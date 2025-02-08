@@ -110,6 +110,5 @@ An innovative full-stack web application designed to help users achieve their fi
 - **Analytics:** Access aggregated user data and platform usage statistics.
 - **System Management:** Configure settings, manage API integrations, and deploy updates.
 - **AI Oversight:** Monitor and fine-tune AI models and recommendations.
-- add new lines
 
 
