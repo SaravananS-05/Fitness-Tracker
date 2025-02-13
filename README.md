@@ -111,4 +111,5 @@ An innovative full-stack web application designed to help users achieve their fi
 - **System Management:** Configure settings, manage API integrations, and deploy updates.
 - **AI Oversight:** Monitor and fine-tune AI models and recommendations.
 
-
+## Layout Page
+<img src="img/DocScanner Feb 7, 2025 12-15 PM.jpg" alt="project workflow">
