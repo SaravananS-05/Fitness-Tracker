@@ -32,3 +32,7 @@ This document outlines the navigation structure for the Fitness Tracker applicat
   - **Log Activity:** Shortcut to log a new workout or meal.
   - **AI Recommendations:** View personalized workout/diet suggestions.
   - **Reminders:** Check and manage upcoming notifications.
+
+## Layout Page
+<img src="../img/DocScanner Feb 7, 2025 12-15 PM.jpg" alt="project workflow">
+
